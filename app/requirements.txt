@@ -1,4 +1,4 @@
 ultralytics
 gradio
-Pillow
-Torch
+pillow
+torch
