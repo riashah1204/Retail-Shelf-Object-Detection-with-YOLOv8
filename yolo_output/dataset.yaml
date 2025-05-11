@@ -1,0 +1,5 @@
+path: /Users/riashah/Downloads/Object_Detection_Retail-main/yolo_output/dataset
+train: images/train
+val: images/val
+names:
+  0: box

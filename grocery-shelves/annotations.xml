@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <owner>
+        <username>Training Data</username>
+      </owner>
+      <labels>
+        <label>
+          <name>Box</name>
+          <color>#1187ff</color>
+          <type>polyline</type>
+          <attributes>
+            <attribute>
+              <name>is_occluded</name>
+              <mutable>True</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+            <attribute>
+              <name>is_flipped</name>
+              <mutable>False</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+            <attribute>
+              <name>is_facing</name>
+              <mutable>False</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>true</default_value>
+              <values>true</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-06-13 19:52:24.783850+00:00</dumped>
+  </meta>
+  <image id="0" name="image/1.png" width="1365" height="690">
+    <polyline label="Box" occluded="0" source="manual" points="8.24,430.94;212.74,429.60;228.40,637.40;21.50,645.90" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="414.80,378.10;621.60,373.30;618.69,637.93;437.80,642.70" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="626.00,284.30;846.40,280.40;843.50,647.10;624.10,643.20" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="853.21,257.52;1099.40,254.60;1088.99,634.76;850.33,631.87" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1117.00,323.00;1364.30,328.70;1355.70,637.60;1105.40,628.10" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="2.81,223.03;195.28,212.61;210.52,423.52;7.63,425.93" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="203.60,218.50;404.90,211.30;413.20,419.70;215.00,425.00" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="226.10,637.10;426.50,634.30;409.90,426.00;217.30,432.20" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="1" name="image/10.png" width="1585" height="704">
+    <polyline label="Box" occluded="0" source="manual" points="393.84,191.88;556.80,187.35;556.80,465.42;383.49,468.01" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="567.14,185.37;734.77,179.65;741.52,462.93;564.02,465.27" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1351.56,51.32;1544.15,41.48;1585.00,347.33;1585.00,441.59;1392.33,444.23" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="23.96,202.61;180.93,198.51;159.85,475.55;1.12,474.97" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="771.43,161.62;952.50,159.03;958.32,462.97;768.20,462.32" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="955.62,156.98;1142.08,151.05;1160.94,458.76;965.86,461.46" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1146.39,146.74;1339.32,140.81;1366.26,459.84;1164.18,460.38" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="228.04,191.72;391.00,190.79;380.76,470.16;207.55,470.16" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="2" name="image/11.jpeg" width="856" height="642">
+    <polyline label="Box" occluded="0" source="manual" points="454.90,100.50;653.40,102.30;654.10,615.30;441.80,612.27" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="243.00,97.30;438.50,102.30;440.00,612.50;214.71,611.07" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="678.32,105.08;856.00,109.62;856.00,618.06;660.55,611.88" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="33.90,189.40;221.69,192.38;214.70,610.70;6.36,608.08" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+  </image>
+  <image id="3" name="image/12.jpg" width="567" height="364">
+    <polyline label="Box" occluded="0" source="manual" points="16.16,45.21;116.80,44.60;106.70,353.20;7.68,356.65" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="123.00,37.90;217.20,35.90;205.10,350.60;113.50,353.30" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="356.14,21.76;451.10,19.70;456.50,340.70;357.50,344.61" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="241.60,51.50;339.20,50.50;338.50,346.50;241.00,349.20" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="462.70,16.20;541.90,12.70;548.90,337.70;463.97,340.36" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+  </image>
+  <image id="4" name="image/13.jpg" width="1298" height="973">
+    <polyline label="Box" occluded="0" source="manual" points="500.26,70.38;896.63,66.00;850.70,519.90;567.30,526.50" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="18.30,66.60;448.47,64.46;398.11,527.16;100.13,536.60" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="508.50,528.00;874.70,520.70;829.50,923.20;566.20,924.20" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="881.30,73.00;1258.90,72.00;1214.60,508.80;930.20,500.80" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="98.60,539.80;484.40,525.30;447.90,922.40;166.10,925.80" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="899.40,507.00;1235.50,514.20;1174.53,900.86;931.46,899.11" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="5" name="image/14.jpg" width="845" height="475">
+    <polyline label="Box" occluded="0" source="manual" points="174.34,112.37;382.81,108.27;385.90,417.60;193.80,416.90" z_order="-4">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="621.56,94.68;844.12,93.94;812.20,424.60;599.90,422.00" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="5.51,86.73;188.99,82.28;197.10,372.10;21.80,375.00" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="394.85,71.31;615.52,70.88;592.30,403.60;393.50,400.50" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="6" name="image/15.jpg" width="1634" height="1226">
+    <polyline label="Box" occluded="0" source="manual" points="543.21,241.34;1076.43,241.34;1065.41,971.76;562.30,950.00" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="10.00,241.20;539.50,243.70;546.51,954.14;34.22,955.97" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1084.30,238.80;1634.00,243.60;1611.90,982.50;1092.83,973.77" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="7" name="image/16.jpg" width="1946" height="1459">
+    <polyline label="Box" occluded="0" source="manual" points="690.88,339.08;1285.23,330.34;1275.40,1287.42;764.08,1301.62" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="12.40,370.30;690.20,338.90;741.70,1349.60;169.70,1364.50" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1290.70,331.00;1944.90,332.30;1829.54,1341.83;1285.45,1351.00" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+  </image>
+  <image id="9" name="image/2.png" width="1473" height="760">
+    <polyline label="Box" occluded="0" source="manual" points="594.60,64.90;1015.80,118.50;977.10,664.10;492.30,557.50" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="178.22,6.12;584.48,69.68;486.90,553.10;109.40,479.00" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="939.30,115.50;1473.00,154.90;1473.00,760.00;1410.71,760.00;988.38,668.95" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="137.82,0.00;165.58,3.56;102.09,481.70;0.00,459.61" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+  </image>
+  <image id="10" name="image/3.png" width="829" height="430">
+    <polyline label="Box" occluded="0" source="manual" points="179.18,16.40;295.21,3.02;293.56,410.54;179.41,411.71" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="413.10,71.35;517.82,62.83;505.64,408.64;398.10,409.30" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="63.99,25.38;174.76,16.64;175.61,411.24;63.71,412.37" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="647.16,30.90;776.36,27.86;774.67,405.66;640.73,407.35" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="520.66,53.56;638.70,48.15;635.99,408.37;516.60,408.70" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="11" name="image/4.png" width="730" height="378">
+    <polyline label="Box" occluded="0" source="manual" points="350.80,118.59;712.72,116.74;714.57,315.60;344.63,307.57" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1.86,120.44;320.54,128.47;325.48,307.57;1.86,297.69" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="12" name="image/5.png" width="929" height="482">
+    <polyline label="Box" occluded="0" source="manual" points="478.40,13.20;627.10,0.40;626.10,430.90;475.43,431.01" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="14.59,15.84;151.67,0.00;163.52,0.00;173.00,429.90;22.30,431.10" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="779.47,17.52;926.30,1.70;909.94,432.93;765.73,431.69" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="629.30,2.50;770.10,4.60;762.98,432.77;629.26,430.95" z_order="0">
+      <attribute name="is_flipped">true</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="327.80,22.50;473.90,6.30;468.20,431.63;313.20,431.09" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="182.90,35.10;316.30,19.50;312.10,431.09;176.20,430.54" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+  <image id="13" name="image/6.png" width="1062" height="547">
+    <polyline label="Box" occluded="0" source="manual" points="808.77,303.11;945.26,303.98;947.86,494.63;810.07,498.10" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="720.30,43.70;873.30,66.20;872.55,242.89;711.36,238.73" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="108.40,315.20;236.40,307.20;243.41,504.94;116.40,508.30" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="383.83,298.98;533.30,299.60;530.70,504.20;386.84,504.49" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="6.50,50.73;142.20,57.50;147.92,235.49;23.65,239.70" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="445.00,36.10;592.40,44.00;590.60,239.00;445.15,237.69" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="596.20,46.50;707.30,52.10;704.40,238.20;593.18,239.04" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="667.50,300.20;804.96,302.68;804.96,498.70;668.20,500.80" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="219.06,300.51;383.71,299.65;384.14,504.60;241.15,505.46" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="866.62,46.14;1003.89,59.86;1003.89,244.55;873.48,241.43" z_order="0">
+      <attribute name="is_facing">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="301.74,52.24;429.93,51.52;435.70,238.55;304.63,237.47" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="119.14,46.87;289.68,50.51;292.80,238.21;147.74,235.09" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="0.10,315.87;103.60,308.50;104.93,506.68;0.00,509.02" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="535.80,303.35;635.09,302.96;646.87,503.89;532.66,503.11" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="946.98,304.33;1062.00,307.61;1062.00,468.73;1061.90,488.94;949.81,492.24" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1004.21,53.60;1062.00,73.29;1062.00,246.12;1006.09,243.86" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+  </image>
+  <image id="14" name="image/7.png" width="2132" height="908">
+    <polyline label="Box" occluded="0" source="manual" points="554.80,447.50;818.80,445.50;819.20,791.60;550.61,794.65" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1843.55,0.00;2042.67,1.64;2115.54,320.06;1854.89,329.91" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1616.94,0.00;1796.10,1.60;1849.31,328.60;1596.54,333.85" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1316.19,2.29;1551.89,0.98;1588.00,333.85;1333.26,343.70" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1063.38,4.72;1311.55,3.93;1329.67,346.66;1077.56,349.02" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="802.59,6.30;1053.92,4.72;1058.65,347.44;795.50,352.96" z_order="0">
+      <attribute name="is_occluded">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="57.00,26.50;316.16,21.28;270.92,302.24;16.06,306.59" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1068.69,423.35;1315.85,416.81;1332.50,777.70;1079.20,778.10" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="826.70,428.80;1063.80,423.40;1075.10,778.80;822.50,784.00" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="550.12,22.41;795.37,13.35;789.27,295.15;527.70,296.10" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="326.90,46.00;547.62,40.85;521.10,304.00;277.40,301.90" z_order="0">
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="291.30,435.20;544.90,428.50;550.61,794.65;285.42,797.06" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="38.67,457.07;283.10,453.59;283.10,797.18;11.10,798.00" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1813.10,406.24;2083.72,399.59;2128.40,766.10;1877.10,770.50" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1566.04,431.00;1813.70,421.94;1870.10,772.50;1597.40,770.00" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1317.86,436.71;1564.32,429.46;1591.30,770.70;1340.70,777.20" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">true</attribute>
+    </polyline>
+  </image>
+  <image id="15" name="image/8.png" width="1904" height="915">
+    <polyline label="Box" occluded="0" source="manual" points="1465.31,143.09;1877.42,129.67;1904.00,808.50;1476.20,821.00" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="1048.74,77.76;1451.40,91.40;1435.90,749.80;1029.20,745.70" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="582.27,123.63;999.52,124.75;996.30,766.90;597.30,756.20" z_order="0">
+      <attribute name="is_occluded">false</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_facing">true</attribute>
+    </polyline>
+    <polyline label="Box" occluded="0" source="manual" points="99.90,129.30;526.20,136.30;427.80,803.60;10.20,804.40" z_order="0">
+      <attribute name="is_facing">true</attribute>
+      <attribute name="is_flipped">false</attribute>
+      <attribute name="is_occluded">false</attribute>
+    </polyline>
+  </image>
+</annotations>
+
