@@ -21,10 +21,13 @@ The Retail Shelf Object Detector is a web app built with YOLOv8 and Gradio. It l
 
 ## Real Time Object Detection
 
+ <img width="450" alt="image" src="https://github.com/user-attachments/assets/8176d5f0-c1f4-4132-b9f0-792c5c9c54f9" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/f0e2ae21-9990-4bfe-b8cd-157e98e1531e" />
+
 
 ## Object Detection of Uploaded Image by User
 
-<img width="346" alt="image" src="https://github.com/user-attachments/assets/5ca1c2e2-e229-47ab-b40f-c0d70378e6e3" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/5ca1c2e2-e229-47ab-b40f-c0d70378e6e3" />
 
 
 ## Run Locally
