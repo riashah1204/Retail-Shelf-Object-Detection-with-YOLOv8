@@ -1,0 +1,7 @@
+.gradio/
+yolo_output/
+grocery-shelves/
+real_time/
+yolov8s.pt
+__pycache__/
+*.pyc
