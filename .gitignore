@@ -5,3 +5,4 @@ real_time/
 yolov8s.pt
 __pycache__/
 *.pyc
+app/best.pt
